@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'Roast Chicken';
+  src: url('RoastChicken.woff2') format('woff2'),
+      url('RoastChicken.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+article {
+  width: 50rem;
+  margin: 0 auto;
+}
+
+section {
+  padding: 0.5rem 2rem;
+}
+
+html {
+  font-family: 'Roast Chicken', sans-serif;
+  font-style: 18pxl
+}
+
+h1, h2 {
+  font-weight: 900px;
+  color: #23226C;
+}
+
+h1 {
+  font-size: 240%;
+  text-align: center;
+}
+
+h2 {
+  font-size: 180%;
+}
+
+body {
+  background-color: #FFFFFF;
+}
+
+.intro, .conclusion {
+  background-color: #D2D6EF;
+}
+
+p {
+  color: #555555;
+  line-height: 150%;
+  text-align: justify;
+}
+
+strong {
+  columns: black;
+}
+
+a {
+  color: #6290C3;
+}
+
+em {
+  font-style: normal;
+  background-color: #D2D6EF;   
+}
